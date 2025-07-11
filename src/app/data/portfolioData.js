@@ -51,13 +51,13 @@ clubs: [
     role: "5기 교육부",
     period: "2024.03 - 현재",
     description: "매주 보안 교육을 통해 웹, 포너블, 리버싱, 암호,포렌식 등 다양한 보안 분야를 학습하고 있습니다.",
-    acrivities: [
+    activities: [
       "주간 보안 교육 및 학습 참여",
       "CTF 문제 출제 및 해결",
       "보안 취약점 분석 실습",
       "동아리 내 지식 공유 및 토론"
     ],
-    achivements: [
+    achievements: [
     "웹 포렌식 osint 분야 CTF 문제 출제"
     ]
   }
