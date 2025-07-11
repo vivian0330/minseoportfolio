@@ -60,6 +60,18 @@ clubs: [
     achievements: [
     "웹 포렌식 osint 분야 CTF 문제 출제"
     ]
+  },
+  {
+    id: "club-mcpsec2",
+    name: "융합보안공학과 학술동아리 ConseQ",
+    university: "성신여자대학교",
+    role: "9기 부원",
+    period: "2024.03 - 현재",
+    description: "매주  스터디를 통해 암호, 웹, 리버싱, 포렌식 등 다양한 보안 분야를 학습하고 있습니다.",
+    activities: [
+      "주간 보안 학습 참여",
+      "동아리 내 지식 공유 및 토론"
+    ]
   }
   ],
 
