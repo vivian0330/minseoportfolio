@@ -25,42 +25,45 @@ export const portfolioData = {
     }
   },
 
-const clubs = [
-  {
-    id: "club-mcpsec", 
-    name: "융합보안공학과 학술동아리 융보공",
-    university: "성신여자대학교",
-    role: "8기 부원",
-    period: "2024.03 - 현재",
-    description: "매주 보안 세미나를 통해 웹해킹, 시스템해킹, 암호학, 네트워크 등 다양한 보안 분야를 학습하고 있습니다.",
-    activities: [
-      "주간 보안 기술 세미나 참여",
-      "CTF 문제 출제 및 해결",
-      "보안 취약점 분석 실습",
-      "동아리 내 지식 공유 및 토론"
-    ],
-    achievements: [
-      "웹 해킹 분야 CTF 문제 출제"
-    ]
-  },
-  {
-    id: "club-mcpsec1",
-    name: "융합보안공학과 학술동아리 HASH",
-    university: "성신여자대학교",
-    role: "5기 교육부",
-    period: "2024.03 - 현재",
-    description: "매주 웹, 포너블, 리버싱, 암호&포렌식 등 다양한 보안 분야를 학습하고 있습니다.",
-    activities: [
-      "주간 보안 기술 세미나 참여",
-      "주간 보안 기술 학습자료 만들기",
-      "보안 취약점 분석 및 실습",
-      "동아리 내 지식 공유 및 토론"
-    ],
-    achievements: [
-      "웹, OSINT, 디지털포렌식 분야 CSE-H-CON 문제 출제"
-    ]
-  }
-];
+const data = {
+  clubs: [
+    {
+      id: "club-mcpsec", 
+      name: "융합보안공학과 학술동아리 융보공",
+      university: "성신여자대학교",
+      role: "8기 부원",
+      period: "2024.03 - 현재",
+      description: "매주 보안 세미나를 통해 웹해킹, 시스템해킹, 암호학, 네트워크 등 다양한 보안 분야를 학습하고 있습니다.",
+      activities: [
+        "주간 보안 기술 세미나 참여",
+        "CTF 문제 출제 및 해결",
+        "보안 취약점 분석 실습",
+        "동아리 내 지식 공유 및 토론"
+      ],
+      achievements: [
+        "웹 해킹 분야 CTF 문제 출제"
+      ]
+    },
+    {
+      id: "club-mcpsec1",
+      name: "융합보안공학과 학술동아리 HASH",
+      university: "성신여자대학교",
+      role: "5기 교육부",
+      period: "2024.03 - 현재",
+      description: "매주 웹, 포너블, 리버싱, 암호&포렌식 등 다양한 보안 분야를 학습하고 있습니다.",
+      activities: [
+        "주간 보안 기술 세미나 참여",
+        "주간 보안 기술 학습자료 만들기",
+        "보안 취약점 분석 및 실습",
+        "동아리 내 지식 공유 및 토론"
+      ],
+      achievements: [
+        "웹, OSINT, 디지털포렌식 분야 CSE-H-CON 문제 출제"
+      ]
+    }
+  ]
+};
+
 
 
 
