@@ -71,6 +71,8 @@ clubs: [
     activities: [
       "주간 보안 학습 참여",
       "동아리 내 지식 공유 및 토론"
+    ],
+    achievements: [
     ]
   }
   ],
