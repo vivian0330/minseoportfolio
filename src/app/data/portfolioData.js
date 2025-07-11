@@ -15,12 +15,7 @@ export const portfolioData = {
       //gpa: "4.2/4.5" // 선택사항
     },
     experience: [
-      {
-        //title: "학부연구생",
-        //organization: "성신여대 SSS 랩",
-        //period: "2024.07 - 2025.02",
-        //track: "AI 모델 기반 보안 취약점 탐지",
-      }
+      
     ],
     contact: {
       email: "vivianvivi0330@gmail.com",
@@ -152,34 +147,13 @@ export const portfolioData = {
       ]
     }
   ],
-  /*
+  
   awards: [
-    {
-      id: "award-mcp-ctf-2025",
-      title: "2025 제 2회 융보공 MCP CTF 장려상",
-      organizer: "융합보안공학과",
-      date: "2025. 06.",
-      description: "시스템 해킹 분야 문제 출제 및 종합 점수를 바탕으로 장려상을 수상했습니다.",
-      proofImage: "/defaultimage.png"
-    },
-    {
-      id: "award-creative-2024",
-      title: "2024 창의융합경진대회 우수상",
-      organizer: "성신여자대학교",
-      date: "2024. 12.",
-      description: "LLM 보안 교육 서비스 아이디어로 우수상을 수상했습니다.",
-      proofImage: "/defaultimage.png"
-    }
-  ],*/
+    
+  ],
 
   certificates: [
-    {
-      //id: "cert-bob-2025",
-      //name: "Best of the Best (BoB) 13기 수료증 (취약점 분석 트랙)",
-      //organizer: "한국정보기술연구원(KITRI)",
-      //date: "2025. 03.",
-      //certificateImage: "/defaultimage.png"
-    },
+    
     {
       id: "cert-mcpsec-8th",
       name: "융합보안공학과 학술동아리 융보공 8기 수료증",
@@ -222,7 +196,7 @@ export const portfolioData = {
       description: "한국인터넷진흥원(KISA)에서 주최한 사이버보안 세미나에 참가하여 국가 차원의 보안 정책과 최신 위협 동향에 대해 학습했습니다.",
       activityImage: "/defaultimage.png"
     }*/
-  ],/*
+  ],
   skills: {
     "언어": [
       { name: "Python", description: "CTF Exploit 코드, 자동화 스크립트 작성" },
@@ -297,5 +271,5 @@ export const portfolioData = {
       tags: ["Network", "Wireshark", "Protocol Analysis"]
     }
   ]
-  */
+
 };
