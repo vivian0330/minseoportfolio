@@ -25,7 +25,7 @@ export const portfolioData = {
     }
   },
 
-clubs: [
+const clubs = [
   {
     id: "club-mcpsec", 
     name: "융합보안공학과 학술동아리 융보공",
@@ -60,7 +60,8 @@ clubs: [
       "웹, OSINT, 디지털포렌식 분야 CSE-H-CON 문제 출제"
     ]
   }
-]
+];
+
 
 
   projects: [
