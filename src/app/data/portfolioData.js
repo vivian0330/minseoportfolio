@@ -27,7 +27,7 @@ export const portfolioData = {
 
   clubs: [
     {
-      id: "club-mcpsec",
+      id: "club-mcpsec", 
       name: "융합보안공학과 학술동아리 융보공",
       university: "성신여자대학교",
       role: "8기 부원",
@@ -44,7 +44,23 @@ export const portfolioData = {
         "웹 해킹 분야 CTF 문제 출제"
       ]
     }
-  ],
+    {
+    id: "club-mcpsec1",
+    name: "융합보안공학과 학술동아리 HASH",
+    university: "성신여자대학교",
+    role: "5기 교육부",
+    period "2024.03 - 현재",
+    description: "매주 웹, 포너블, 리버싱, 암호&포렌식 등 다양한 보안 분야를 학습하고 있습니다."
+    activites: [
+      "주간 보안 기술 세미나 참여",
+      "주간 보안 기술 학습자료 만들기",
+      "보안 취약점 분석 및 실습",
+      "동아리 내 지식 공유 및 토론",
+    ],
+    achievenets: [
+      "웹, osint, 디지털포렌식 분야 cse-h-con 문제 출제"
+    ]
+    }
 
   projects: [
     {
